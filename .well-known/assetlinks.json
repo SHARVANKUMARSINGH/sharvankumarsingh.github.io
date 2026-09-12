@@ -1,14 +1,8 @@
-[
-  {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.sharvankumarsingh.unsource",
-      "sha256_cert_fingerprints": [
-        "98:C6:66:2C:FD:90:44:4C:A2:D3:E0:D6:E2:8B:42:AB:A7:E7:CB:0A:E3:01:A9:4C:AA:73:A0:72:D0:09:AA:BA"
-      ]
-    }
-  }
-]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.sharvankumarsingh.twa",
+        "sha256_cert_fingerprints": ["23:13:BB:95:E3:B8:F0:65:68:17:05:B1:00:22:9E:2C:0F:8D:19:B9:34:28:D1:AC:DF:37:51:B6:51:F0:A1:34"]
+      }
+    }]
